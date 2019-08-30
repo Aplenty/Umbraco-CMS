@@ -172,6 +172,11 @@ namespace Umbraco.Core
                 public const string UserPicker = "Umbraco.UserPicker";
 
                 /// <summary>
+                /// Multiple User Picker.
+                /// </summary>
+                public const string MultipleUserPicker = "Umbraco.MultipleUserPicker";
+
+                /// <summary>
                 /// Upload Field.
                 /// </summary>
                 public const string UploadField = "Umbraco.UploadField";
